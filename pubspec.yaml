@@ -16,7 +16,7 @@ dependencies:
   logger: ^2.0.2
   url_launcher: ^6.1.13
   flutter_native_splash: ^2.3.3
-  smooth_page_indicator: ^1.2.0+3
+  smooth_page_indicator: ^1.2.0
 
   # Icons
   iconsax: ^0.0.8
