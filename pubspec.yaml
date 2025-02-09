@@ -38,6 +38,7 @@ flutter:
   assets:
     - assets/logos/
     - assets/images/on_boarding_images/
+    - assets/images/animation/
     - assets/icons/brands/
     - assets/fonts/
 

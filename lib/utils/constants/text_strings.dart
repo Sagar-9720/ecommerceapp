@@ -34,10 +34,11 @@ class TTexts {
   static const orSignUpWith = "Or Sign Up With";
   static const iAgreeTo = "I agree to";
   static const privacyPolicy = "Privacy Policy";
-  static const termsOfService = "Terms of Service";
+  static const termsOfService = "Terms of Use";
   static const verificationCode = "Verification Code";
   static const resendEmail = "Resend Email";
   static const resendEmailIn = "Resend Email in";
+  static const and = "and";
 
   // --Authentication Heading Text
   static const loginTitle = "Welcome Back!";
@@ -56,7 +57,7 @@ class TTexts {
   static const emailNotReceivedMessage = "Email not received?";
   static const yourAccountCreatedTitle = "Your Account has been Created!";
   static const yourAccountCreatedSubtitle =
-      "Welcome to T-Store! Your Perfect Product Awaits!";
+      "Welcome to ECommerce Shop!\nYour Perfect Product Awaits!";
 
   // --Home
   static const String homeAppbarTitle = "Good day for shopping";
