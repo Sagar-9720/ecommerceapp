@@ -2,6 +2,8 @@
 
 class TTexts {
   //--Global texts
+  static const String appName = "T-Store";
+  static const String tContinue = "Continue";
 
   // --OnBoarding texts
 
@@ -15,6 +17,46 @@ class TTexts {
       "Choose from a Variety of Payment Methods - Your Security is Our Priority!";
   static const String onBoardingSubTitle3 =
       "From our Door to Yours - We Deliver with Care!";
+
+  // --Authentication Form Texts
+  static const firstName = "First Name";
+  static const lastName = "Last Name";
+  static const email = "Email";
+  static const password = "Password";
+  static const confirmPassword = "Confirm Password";
+  static const username = "Username";
+  static const phoneNumber = "Phone Number";
+  static const rememberMe = "Remember Me";
+  static const forgotPassword = "Forgot Password?";
+  static const signIn = "Sign In";
+  static const createAccount = "Create Account";
+  static const orSignInWith = "Or Sign In With";
+  static const orSignUpWith = "Or Sign Up With";
+  static const iAgreeTo = "I agree to";
+  static const privacyPolicy = "Privacy Policy";
+  static const termsOfService = "Terms of Service";
+  static const verificationCode = "Verification Code";
+  static const resendEmail = "Resend Email";
+  static const resendEmailIn = "Resend Email in";
+
+  // --Authentication Heading Text
+  static const loginTitle = "Welcome Back!";
+  static const loginSubtitle =
+      "Discover Limitless Choices and Unmatched Convenience!";
+  static const signUpTitle = "Create an Account";
+  static const forgotPasswordTitle = "Forgot Password?";
+  static const forgotPasswordSubtitle =
+      "Enter your email to receive a password reset link";
+  static const changeYourPasswordTitle = "Password Resent Email Sent!";
+  static const changeYourPasswordSubtitle =
+      "We have sent a password reset link to your email";
+  static const confirmEmailTitle = "Confirm Your Email";
+  static const confirmEmailSubtitle =
+      "Enter the verification code sent to your email";
+  static const emailNotReceivedMessage = "Email not received?";
+  static const yourAccountCreatedTitle = "Your Account has been Created!";
+  static const yourAccountCreatedSubtitle =
+      "Welcome to T-Store! Your Perfect Product Awaits!";
 
   // --Home
   static const String homeAppbarTitle = "Good day for shopping";
