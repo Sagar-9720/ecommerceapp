@@ -39,7 +39,8 @@ class TTexts {
   static const resendEmail = "Resend Email";
   static const resendEmailIn = "Resend Email in";
   static const and = "and";
-
+  static const submit = "Submit";
+  static const done = "Done";
   // --Authentication Heading Text
   static const loginTitle = "Welcome Back!";
   static const loginSubtitle =
